@@ -23,3 +23,9 @@ Bowling
 ● 10 points for economy rate less than 2
 Fielding
 ● 10 points each for catch/stumping/run out
+
+
+![ff](https://github.com/AtufaShireen/python-fantasy-cricket-game/blob/master/0A364680-344E-498B-9DDA-5F86654AA6DA.jpeg)
+![ff](https://github.com/AtufaShireen/python-fantasy-cricket-game/blob/master/4DC5C403-F82E-4ADB-928D-B1E572A90BE4.jpeg)
+![ff](https://github.com/AtufaShireen/python-fantasy-cricket-game/blob/master/D6424B59-ECA4-4E2E-A6A3-65E73C955F84.jpeg)
+![ff](https://github.com/AtufaShireen/python-fantasy-cricket-game/blob/master/DC6937AF-E762-409F-A251-16AA224D72FF.jpeg)
